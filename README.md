@@ -22,16 +22,6 @@ Built with **HTML**, **CSS**, and **JavaScript**, this project provides a smooth
 - **JavaScript (ES6)** – Functionality  
 - **API:** [Fawaz Ahmed’s Currency API](https://github.com/fawazahmed0/currency-api)  
 
----
 
-## 📸 Preview
 
-![Currency Converter Screenshot](https://via.placeholder.com/800x400?text=Currency+Converter+Preview)
 
----
-
-## ⚙️ How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/currency-converter.git
